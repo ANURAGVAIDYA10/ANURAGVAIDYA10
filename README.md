@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANURAGVAIDYA10
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Full Stack in Java.
+- 🌱 I’m currently working at Holograph Technologies.
 - 💞️ I’m looking to collaborate on innovative projects that combine technology and creativity to solve real-world problems.
 - 📫 How to reach me anuragvaidya710@gmail.com
 - 😄 Pronouns: Programmer/he/him
